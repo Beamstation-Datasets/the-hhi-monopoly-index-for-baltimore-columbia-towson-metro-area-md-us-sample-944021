@@ -1,12 +1,12 @@
 {
-  "export_job_id": "df70fd13-87a7-4256-9366-facab9c29f5a",
+  "export_job_id": "16541fd5-9070-4341-9c8a-af0ffb77b3e1",
   "id_short": 944021,
-  "published_at": "2026-04-16T07:43:33Z",
+  "published_at": "2026-04-19T07:05:35Z",
   "repo_name": "the-hhi-monopoly-index-for-baltimore-columbia-towson-metro-area-md-us-sample-944021",
   "sample_asset_name": "beamstation_944021_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/944021/beamstation_944021_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
   "sample_records": 20,
   "sample_sha256": "a2524a6a5231f3738bf0c3d8a3b1bbe51f5f3a8d33bf697d1b8be4b1ea695bd3",
   "sample_size_bytes": 96309,
-  "total_records": 241
+  "total_records": 208
 }
