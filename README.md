@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Baltimore-Columbia-Towson Metro Area, MD, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 14 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `944021` |
 | Location | Baltimore-Columbia-Towson, MD |
 | Category | Restaurants |
-| Full dataset size | 208 records |
-| Free sample size | 20 records (9.62%) |
-| Last export | 2026-04-15T05:33:51.912000+00:00 |
+| Full dataset size | 149 records |
+| Free sample size | 14 records (9.4%) |
+| Last export | 2026-04-22T11:16:24.189912+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-baltimore-columbia-towson-metro-area-md-us-sample-944021/releases/download/sample-latest/beamstation_944021_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
